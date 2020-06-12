@@ -1,2 +1,2 @@
 # EZNEW.VerificationCode.SkiaSharp
-create a verification code with SkiaSharp
+Verification code generation based on SkiaSharp
